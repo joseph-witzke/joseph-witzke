@@ -50,7 +50,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img style="margin: 1rem; verticle-align: top"  alt="Joe Witzke's Most Used Language Stats"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-witzke&hide=html&theme=tokyonight
+  <img style="margin: 1rem; verticle-align: top"  alt="Joe Witzke's Most Used Language Stats"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-witzke&theme=tokyonight
  />
 </div>
 
