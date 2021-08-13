@@ -11,7 +11,7 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>][gmail]
 
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
 
 <!-- [<img align="left" style="margin-right: 1.5rem" alt="Twitter" width="36px" src="assets\013-twitter-1.svg" />][twitter] -->
 
