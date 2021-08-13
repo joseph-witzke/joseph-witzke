@@ -50,7 +50,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img style="margin: 1rem; verticle-align: top"  alt="Joe Witzke's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joseph-witzke&layout=compact&theme=radical" />
+  <img style="margin: 1rem; verticle-align: top"  alt="Joe Witzke's Most Used Language Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-witzke&hide=javascript,css,scss,html&theme=tokyonight" />
 </div>
 
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=witzk1jr@gmail.com&su=SUBJECT&body=BODY&tf=cm
