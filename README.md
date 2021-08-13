@@ -2,10 +2,10 @@
 
 ## Amateur mountain biker turned full stack web developer!
 
-🥅 2021 Goals: Graduate from Lambda School and get a developer job
-🌱 I’m currently learning Next.js
-😄 Pronouns: He/Him/His
-⚡ Fun fact: I lived and worked in Clermont-Ferrand, France
+- 🥅 2021 Goals: Graduate from Lambda School and get a developer job
+- 🌱 I’m currently learning Next.js
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I lived and worked in Clermont-Ferrand, France
 
 ### Connect with me:
 
@@ -36,7 +36,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 
-
 ## Tools Skills:
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
@@ -55,8 +54,9 @@
 </div>
 
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=witzk1jr@gmail.com&su=SUBJECT&body=BODY&tf=cm
+
 <!-- [twitter]: https://twitter.com/ -->
+
 [linkedin]: https://www.linkedin.com/in/joseph-witzke-b5742b80/
 
 <!--
-
