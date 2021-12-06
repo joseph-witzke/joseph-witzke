@@ -13,7 +13,7 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="![image](https://user-images.githubusercontent.com/74194503/144917233-32ed92f9-400c-437c-bbc0-6feb4738dfb5.png)" />][portfolio]
+[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="https://user-images.githubusercontent.com/74194503/144917233-32ed92f9-400c-437c-bbc0-6feb4738dfb5.png" />][portfolio]
 
 <br />
 
