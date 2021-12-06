@@ -13,7 +13,7 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
 
-<!-- [<img align="left" style="margin-right: 1.5rem" alt="Twitter" width="36px" src="assets\013-twitter-1.svg" />][twitter] -->
+[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="![image](https://user-images.githubusercontent.com/74194503/144917233-32ed92f9-400c-437c-bbc0-6feb4738dfb5.png)" />][portfolio]
 
 <br />
 
@@ -56,7 +56,7 @@
 
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=witzk1jr@gmail.com&su=SUBJECT&body=BODY&tf=cm
 
-<!-- [twitter]: https://twitter.com/ -->
+[portfolio]: https://portfolio-primary-joseph-witzke.vercel.app/
 
 [linkedin]: https://www.linkedin.com/in/joseph-witzke-b5742b80/
 
