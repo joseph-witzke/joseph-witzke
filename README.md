@@ -1,9 +1,9 @@
 ### Hello, I'm Joe 👋
 
-## Amateur mountain biker turned full stack web developer!
+## Amateur mountain biker turned test automation expert and coding enthusist!
 
-- 🥅 2021 Goals: Graduate from Lambda School and get a developer job
-- 🌱 I’m currently learning Next.js
+- 🥅 2026 Goals: become a test automation guru, leveraging AI tools to the max
+- 🌱 I’m currently deep-diving Playwright / MCP
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I lived and worked in Clermont-Ferrand, France
 
@@ -37,7 +37,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 
 ## Tools Skills:
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
